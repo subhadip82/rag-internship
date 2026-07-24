@@ -4,3 +4,10 @@
 2026-07-24 12:48:29,652 - INFO - Cleaned Driving-in-South-Korea-what-you-need-to-know.pdf into 13 paragraph(s)
 2026-07-24 12:48:29,661 - INFO - Created 6 chunk(s) for Driving-in-South-Korea-what-you-need-to-know.pdf
 2026-07-24 12:48:29,683 - INFO - Saved 6 chunk(s) to \\wsl.localhost\Ubuntu-24.04\home\subhadip\projects\rag-internship\data\chunks
+2026-07-24 15:34:50,021 - INFO - Loaded -Making Tourism More Sustainable_ A Guide for Policy Makers-2005445.pdf with 222 page(s)
+2026-07-24 15:34:50,189 - INFO - Loaded Driving-in-South-Korea-what-you-need-to-know.pdf with 12 page(s)
+2026-07-24 15:34:50,237 - INFO - Cleaned -Making Tourism More Sustainable_ A Guide for Policy Makers-2005445.pdf into 267 paragraph(s)
+2026-07-24 15:34:50,245 - INFO - Created 199 chunk(s) for -Making Tourism More Sustainable_ A Guide for Policy Makers-2005445.pdf
+2026-07-24 15:34:50,246 - INFO - Cleaned Driving-in-South-Korea-what-you-need-to-know.pdf into 13 paragraph(s)
+2026-07-24 15:34:50,247 - INFO - Created 6 chunk(s) for Driving-in-South-Korea-what-you-need-to-know.pdf
+2026-07-24 15:34:50,271 - INFO - Saved 205 chunk(s) to /home/subhadip/projects/rag-internship/data/chunks

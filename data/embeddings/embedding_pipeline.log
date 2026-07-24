@@ -1,0 +1,42 @@
+2026-07-24 14:07:52,471 - INFO - Loaded 6 chunk(s) from \\wsl.localhost\Ubuntu-24.04\home\subhadip\projects\rag-internship\data\chunks\chunks.json
+2026-07-24 14:07:52,471 - INFO - Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2026-07-24 14:15:45,952 - INFO - Embedding model loaded successfully
+2026-07-24 14:15:45,952 - INFO - Generating embeddings for 6 text(s)
+2026-07-24 14:15:46,621 - INFO - Embedding dimension: 384
+2026-07-24 14:15:46,621 - INFO - Generating embedding for query
+2026-07-24 14:15:46,621 - INFO - Generating embeddings for 1 text(s)
+2026-07-24 14:15:46,708 - INFO - Stored 6 chunk(s) in the local vector store
+2026-07-24 14:15:46,714 - INFO - Displaying 1 retrieval result(s)
+2026-07-24 14:15:46,716 - INFO - Rank 1 -> Driving-in-South-Korea-what-you-need-to-know_chunk_004
+2026-07-24 14:15:46,716 - INFO - Displaying 3 retrieval result(s)
+2026-07-24 14:15:46,719 - INFO - Rank 1 -> Driving-in-South-Korea-what-you-need-to-know_chunk_004
+2026-07-24 14:15:46,721 - INFO - Rank 2 -> Driving-in-South-Korea-what-you-need-to-know_chunk_006
+2026-07-24 14:15:46,723 - INFO - Rank 3 -> Driving-in-South-Korea-what-you-need-to-know_chunk_003
+2026-07-24 14:15:46,723 - INFO - Displaying 5 retrieval result(s)
+2026-07-24 14:15:46,726 - INFO - Rank 1 -> Driving-in-South-Korea-what-you-need-to-know_chunk_004
+2026-07-24 14:15:46,727 - INFO - Rank 2 -> Driving-in-South-Korea-what-you-need-to-know_chunk_006
+2026-07-24 14:15:46,727 - INFO - Rank 3 -> Driving-in-South-Korea-what-you-need-to-know_chunk_003
+2026-07-24 14:15:46,731 - INFO - Rank 4 -> Driving-in-South-Korea-what-you-need-to-know_chunk_001
+2026-07-24 14:15:46,731 - INFO - Rank 5 -> Driving-in-South-Korea-what-you-need-to-know_chunk_005
+2026-07-24 14:15:46,734 - INFO - Week 4 embedding retrieval pipeline completed
+2026-07-24 15:37:25,094 - INFO - Loaded 205 chunk(s) from /home/subhadip/projects/rag-internship/data/chunks/chunks.json
+2026-07-24 15:37:25,095 - INFO - Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+2026-07-24 15:38:04,076 - INFO - Embedding model loaded successfully
+2026-07-24 15:38:04,077 - INFO - Generating embeddings for 205 text(s)
+2026-07-24 15:38:10,486 - INFO - Embedding dimension: 384
+2026-07-24 15:38:10,486 - INFO - Generating embedding for query
+2026-07-24 15:38:10,486 - INFO - Generating embeddings for 1 text(s)
+2026-07-24 15:38:10,571 - INFO - Stored 205 chunk(s) in the local vector store
+2026-07-24 15:38:10,572 - INFO - Displaying 1 retrieval result(s)
+2026-07-24 15:38:10,572 - INFO - Rank 1 -> -Making Tourism More Sustainable_ A Guide for Policy Makers-2005445_chunk_070
+2026-07-24 15:38:10,572 - INFO - Displaying 3 retrieval result(s)
+2026-07-24 15:38:10,572 - INFO - Rank 1 -> -Making Tourism More Sustainable_ A Guide for Policy Makers-2005445_chunk_070
+2026-07-24 15:38:10,572 - INFO - Rank 2 -> Driving-in-South-Korea-what-you-need-to-know_chunk_004
+2026-07-24 15:38:10,572 - INFO - Rank 3 -> -Making Tourism More Sustainable_ A Guide for Policy Makers-2005445_chunk_114
+2026-07-24 15:38:10,573 - INFO - Displaying 5 retrieval result(s)
+2026-07-24 15:38:10,573 - INFO - Rank 1 -> -Making Tourism More Sustainable_ A Guide for Policy Makers-2005445_chunk_070
+2026-07-24 15:38:10,573 - INFO - Rank 2 -> Driving-in-South-Korea-what-you-need-to-know_chunk_004
+2026-07-24 15:38:10,573 - INFO - Rank 3 -> -Making Tourism More Sustainable_ A Guide for Policy Makers-2005445_chunk_114
+2026-07-24 15:38:10,573 - INFO - Rank 4 -> -Making Tourism More Sustainable_ A Guide for Policy Makers-2005445_chunk_010
+2026-07-24 15:38:10,573 - INFO - Rank 5 -> -Making Tourism More Sustainable_ A Guide for Policy Makers-2005445_chunk_023
+2026-07-24 15:38:10,573 - INFO - Week 4 embedding retrieval pipeline completed
