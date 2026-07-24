@@ -1,0 +1,6 @@
+2026-07-24 12:14:38,149 - INFO - No PDF files found in \\wsl.localhost\Ubuntu-24.04\home\subhadip\projects\rag-internship\data\raw_documents
+2026-07-24 12:14:38,174 - INFO - Saved 0 chunk(s) to \\wsl.localhost\Ubuntu-24.04\home\subhadip\projects\rag-internship\data\chunks
+2026-07-24 12:48:29,652 - INFO - Loaded Driving-in-South-Korea-what-you-need-to-know.pdf with 12 page(s)
+2026-07-24 12:48:29,652 - INFO - Cleaned Driving-in-South-Korea-what-you-need-to-know.pdf into 13 paragraph(s)
+2026-07-24 12:48:29,661 - INFO - Created 6 chunk(s) for Driving-in-South-Korea-what-you-need-to-know.pdf
+2026-07-24 12:48:29,683 - INFO - Saved 6 chunk(s) to \\wsl.localhost\Ubuntu-24.04\home\subhadip\projects\rag-internship\data\chunks
